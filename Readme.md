@@ -1,0 +1,1 @@
+Akinator é um jogo que adivinha o personagem que o usuário está pensando. Analogamente, esse programa descobre se o que o usuário digitou é número ou não. 
